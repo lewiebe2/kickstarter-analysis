@@ -8,7 +8,11 @@ The purpose of the analysis is to inform Louise's potential future Kickstarter c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Please see ![Theater Outcomes vs Launch](relative/path/to/Theater_Outcomes_vs_Launch.png?raw=true "Title") for findings of Outcomes Based on Launch Date. 
+Please see the line graph below for findings of Theater Outcomes Based on Launch Date. 
+
+
+![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 The blue line for successful theater campaigns shows a clear peak in May, with a steady decline in June to December. Overall the spring and summer months trend higher than the winter and fall months, with the maximum value of 111 campaigns in May and the minimum value of 37 campaigns in December.
 
@@ -17,7 +21,10 @@ The red line for failed theater campaigns is fairly consistent across all months
 The yellow line for for canceled theater campaigns is very flat, also suggesting that the launch date may not have been the most important contributing factor to the cancellation of the campaigns.
 
 ### Analysis of Outcomes Based on Goals
-Please see ![Theater Outcomes vs Launch](relative/path/to/Outcomes_vs_Goals.png?raw=true "Title") for findings of Outcomes Based on Goals.
+Please see the line graph below for findings of Play Outcomes Based on Goals.
+
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
+
 
 The blue line for percentage successful play campaigns and the yellow line for percentage failed play campaigns mirror each other, showing an inverse relationship.
 
