@@ -8,7 +8,7 @@ The purpose of the analysis is to inform Louise's potential future Kickstarter c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Please see /assets/images/Theater_Outcomes_vs_Launch.png for findings of Outcomes Based on Launch Date. 
+Please see ![Outcomes Based on Launch Date Line Graph](Theater_Outcomes_vs_Launch.png) for findings of Outcomes Based on Launch Date. 
 
 The blue line for successful theater campaigns shows a clear peak in May, with a steady decline in June to December. Overall the spring and summer months trend higher than the winter and fall months, with the maximum value of 111 campaigns in May and the minimum value of 37 campaigns in December.
 
@@ -17,7 +17,7 @@ The red line for failed theater campaigns is fairly consistent across all months
 The yellow line for for canceled theater campaigns is very flat, also suggesting that the launch date may not have been the most important contributing factor to the cancellation of the campaigns.
 
 ### Analysis of Outcomes Based on Goals
-Please see /assets/images/Outcomes_vs_Goals.png for findings of Outcomes Based on Goals.
+Please see ![Outcomes Based on Goals Line Graph](Outcomes_vs_Goals.png) for findings of Outcomes Based on Goals.
 
 The blue line for percentage successful play campaigns and the yellow line for percentage failed play campaigns mirror each other, showing an inverse relationship.
 
@@ -39,4 +39,4 @@ I encountered difficulties with the Year function outputting "1900" instead of t
 - What are some limitations of this dataset?
 My deliverables are separately analyzing a parent category, theater, and a sub category, plays. My client has shown interest in using Kickstarter for the broader theater category and not just plays, but I need to provide further analysis for other sub categories she may be pursuing that are not plays. This dataset also did not contain any cancelled play campaigns, so my analysis cannot provide recommendations for that outcome. 
 - What are some other possible tables and/or graphs that we could create?
-A measure of central tendency and graph would also be helpful for my client to visualize successful vs failed campaigns. In this case, identifying the median and creating a box and whisker plot would be most helpful to show the range of successful campaigns and the outliers.
+A measure of central tendency and graph would also be helpful for my client to visualize successful vs failed campaigns. In this case, identifying the median and creating a box and whisker plot would be most helpful to show the inner-quartile range of successful campaigns and the outliers.
